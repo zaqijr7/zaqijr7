@@ -1,8 +1,6 @@
 ### Hi there! I'am Muhammad Zaqi Al Quraisyi 👋
 
-[![Ridho's github stats](https://github-readme-stats.vercel.app/api?username=zaqijr7&count_private=true)](https://github.com/zaqijr7)
-
-<img width="35%" align="right" alt="Github" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
+[![Zaqi's github stats](https://github-readme-stats.vercel.app/api?username=zaqijr7&count_private=true)](https://github.com/zaqijr7) <img width="35%" align="right" alt="Github" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-zaqi/)](https://www.linkedin.com/in/muhammad-zaqi/)
 [![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zaqijr7@gmail.com)](mailto:zaqijr7@gmail.com)
