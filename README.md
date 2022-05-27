@@ -6,6 +6,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-zaqi/)](https://www.linkedin.com/in/muhammad-zaqi/)
 [![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zaqijr7@gmail.com)](mailto:zaqijr7@gmail.com)
+[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/081211501766)
 
 I'am Fullstack Developer. 
 - 🔭 I’m currently looking for front-end or backend experience.
